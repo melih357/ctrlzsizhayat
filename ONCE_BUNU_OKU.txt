@@ -1,0 +1,18 @@
+CTRLZSIZ HAYAT - KISA NOT
+
+Bu sürümde Gmail mail ayarları ve e-posta kod doğrulama sistemi kaldırıldı.
+
+Kayıt seçenekleri:
+1) Google ile Devam Et
+2) Ad Soyad + E-posta + Şifre ile normal kayıt
+
+Admin panelinde Mail Ayarları yoktur. Sadece Google Ayarları vardır.
+
+Kurulum:
+- Klasör adını ctrlzsizhayat yap.
+- XAMPP htdocs içine koy.
+- http://localhost/ctrlzsizhayat/frontend/ adresinden aç.
+
+Admin:
+E-posta: admin@ctrlzsizhayat.com
+Şifre: admin123
